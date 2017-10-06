@@ -1,0 +1,3 @@
+Wav File Header: 
+http://soundfile.sapp.org/doc/WaveFormat/
+http://www.topherlee.com/software/pcm-tut-wavformat.html
