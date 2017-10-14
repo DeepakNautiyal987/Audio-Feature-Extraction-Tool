@@ -8,4 +8,4 @@ You can also enter the location of the wav file
 
 # Prerequisites
 Add media, windows refenrences.
-Enter the file name in the desired locations.
+Enter the file name in the desired location.
